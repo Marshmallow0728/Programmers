@@ -1,3 +1,3 @@
 This is solutions of problems in Programmers
 
-Changed
+This is tutorial
