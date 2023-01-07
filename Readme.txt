@@ -1,1 +1,1 @@
-This is solutions of problems in Programmers
+These are solutions of problems in Programmers
